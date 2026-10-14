@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: "In mathematics, you don't understand things. You just get used to them." - John von Neumann
+subtitle: "In mathematics, you don't understand things. You just get used to them." John von Neumann
 
 profile:
   align: right
