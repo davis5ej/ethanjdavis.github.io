@@ -6,7 +6,7 @@ subtitle: In mathematics, you don't understand things. You just get used to them
 
 profile:
   align: right
-  image: prof_pic.png
+  image: taft_prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Cincinnati</p>
