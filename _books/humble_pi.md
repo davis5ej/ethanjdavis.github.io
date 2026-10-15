@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: Humble Pi: When Math Goes Wrong in the Real World
+title: Humble Pi #: When Math Goes Wrong in the Real World
 author: Matt Parker
 cover: # assets/img/book_covers/the_godfather.jpg
 olid: # OL43499941M # use Open Library ID to fetch cover (if no `cover` is provided)
