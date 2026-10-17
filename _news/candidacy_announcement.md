@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Advanced into Candidacy.
+Advanced into candidacy.
