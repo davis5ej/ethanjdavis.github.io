@@ -2,7 +2,7 @@
 layout: book-review
 title: The Joy of Abstraction
 author: Eugenia Cheng
-isbn: 9781108477222
+isbn: 9781108769389
 categories: popular-math
 tags: category-theory
 released: 2022
