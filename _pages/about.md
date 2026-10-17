@@ -37,5 +37,28 @@ I am a 4th year mathematical sciences PhD candidate, working under the advisorsh
 
 I am very passionate about mathematics and how it is taught. For more on this, please check out my teaching page.
 
-# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<blockquote style="clear: both; font-size: 1rem;" markdown="1">
+<div class="row" markdown="1">
+<div class="col-sm-6" markdown="1">
+
+#### Interests
+
+- First interest
+- Second interest
+- Third interest
+
+</div>
+<div class="col-sm-6" markdown="1">
+
+#### Education
+
+- <span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>**PhD in Mathematics**, expected 2027 <br> <small>University of Cincinnati</small>
+- <span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>**BS in Mathematics**, 2021 <br> <small>Your University</small>
+{: .fa-ul}
+
+</div>
+</div>
+</blockquote>
+
+Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
