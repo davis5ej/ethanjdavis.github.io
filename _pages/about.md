@@ -37,9 +37,8 @@ I am a 4th year mathematical sciences PhD candidate, working under the advisorsh
 
 I am very passionate about mathematics and how it is taught. For more on this, please check out my teaching page.
 
-<blockquote style="clear: both; font-size: 1rem;" markdown="1">
-<div class="row" markdown="1">
-<div class="col-sm-6" markdown="1">
+<blockquote style="clear: both; font-size: 1rem; padding: 1.25rem 1.5rem 0.25rem; background: var(--global-code-bg-color); display: flex; flex-wrap: wrap; gap: 0.5rem 2rem;" markdown="1">
+<div style="flex: 1 1 240px;" markdown="1">
 
 #### Interests
 
@@ -48,15 +47,14 @@ I am very passionate about mathematics and how it is taught. For more on this, p
 - Third interest
 
 </div>
-<div class="col-sm-6" markdown="1">
+<div style="flex: 1 1 240px;" markdown="1">
 
 #### Education
 
-- <span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>**PhD in Mathematics**, expected 2027 <br> <small>University of Cincinnati</small>
-- <span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>**BS in Mathematics**, 2021 <br> <small>Your University</small>
+- <span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>**PhD in Mathematical Sciences**, expected 2028 <br> <small>University of Cincinnati</small>
+- <span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>**BS in Applied Mathematics**, 2023 <br> <small>The Ohio State University</small>
 {: .fa-ul}
 
-</div>
 </div>
 </blockquote>
 
