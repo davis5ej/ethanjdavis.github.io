@@ -33,7 +33,9 @@ latest_posts:
 >
 > -- John von Neumann
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a 4th year mathematical sciences PhD candidate, working under the advisorship of Dr. Deniz Bilman at the University of Cincinnati. My research involves nonlinear waves and asymptotic analysis. This academic year, I am being supported by the Taft Dissertation Fellowship.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am very passionate about mathematics and how it is taught. For more on this, please check out my teaching page.
+
+# Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
