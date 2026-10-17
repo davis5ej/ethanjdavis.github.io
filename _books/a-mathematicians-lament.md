@@ -6,6 +6,7 @@ isbn: 9781934137178
 categories: math-education
 tags: pedagogy
 released: 2009
+stars: 5
 status: Finished
 ---
 
